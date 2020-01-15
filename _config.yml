@@ -1,9 +1,4 @@
 theme: jekyll-theme-slate
 
 layout: default
-title: Home
-navigation_weight: 1
 
-header_pages:
-  - kma32527/index.md
-  - about.md

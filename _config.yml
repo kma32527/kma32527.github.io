@@ -3,3 +3,7 @@ theme: jekyll-theme-slate
 layout: default
 title: Home
 navigation_weight: 1
+
+header_pages:
+  - rumerica/index.md
+  - about.md

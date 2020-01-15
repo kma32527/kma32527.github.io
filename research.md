@@ -1,9 +1,7 @@
 
-## Welcome to GitHub Pages
+## The semantic structure of academic texts
 
-You can use the [editor on GitHub](https://github.com/kma32527/kma32527.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project analyzes the semantics of texts
 
 ### Markdown
 

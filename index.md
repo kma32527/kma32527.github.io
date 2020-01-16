@@ -1,4 +1,4 @@
-# My website
+# Welcome!
 
 Welcome to my website!
 

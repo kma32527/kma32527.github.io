@@ -3,5 +3,5 @@ theme: jekyll-theme-slate
 layout: default
 
 header_pages:
-- index.md
--research.md
+  - index.md
+  - research.md

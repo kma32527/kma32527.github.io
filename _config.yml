@@ -3,5 +3,5 @@ theme: minima
 layout: default
 
 header_pages:
-  - about.md
+  - index.md
   - portfolio.md

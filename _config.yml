@@ -5,7 +5,7 @@ theme: minima
 layout: default
 
 header_pages:
-  - index.md
+  - about.md
   - projects.md
   - blog.md
 

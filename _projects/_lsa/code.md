@@ -1,18 +1,21 @@
-# Package description
-This project consists of an importable package keymodel.py, and auxilliary packages.
+# Modelling arXiv abstracts on machine learning
 
-To create a model from input texts, clone the repository and run
-
+Start by, cloning the repository and importing the model package
 ```markdown
 import keyword_model.py as km
-arxiv_data=km.load_arxiv()
-model=km.corpusmodel(arxiv_data, 1)
 ```
-This initializes a 1-gram model on the set of arXiv abstracts.
 
-To retrieve a set of matches given an input text, run
+This package contains the arXiv dataset as a default, which can be used to construct a keyword model.
+```markdown
+arxiv_data=km.load_arxiv()
+model=km.corpusmodel(arxiv_data, 500, 1)
+```
+This initializes a model of 500 single word grams.
+
+To retrieve the 10 most relevant abstracts given an input text, save your input text to a unformatted text file.
 ```markdown
 inputtext='relevant text'
+\# matches is an array \[titles, texts, vector_rep\]
 matches=km.gettopn(inputtext, corpusmodel, n)
-km.corpusprint(matches, corpusmodel)
+km.printtitles(matches)
 ```

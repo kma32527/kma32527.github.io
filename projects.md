@@ -1,3 +1,6 @@
 # Projects
 Here are some projects I've done
-- [Latent semantic analysis](lsa.md)
+- [Text mining academic literature](lsa.md)
+- [USAPL data](usapl.md)
+- [Keyword extractor](keyword.md)
+- [IMDB Sentiment Analysis](imdb.md)

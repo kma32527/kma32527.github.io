@@ -12,15 +12,15 @@ model=km.corpusmodel(arxiv_data, 500, 1)
 ```
 This initializes a model of 500 single word grams.
 
-To retrieve the 10 most relevant abstracts given an input text, save your input text to a unformatted text file.
+To retrieve the 10 most relevant abstracts given an input text, save your input text to a unformatted text file and run the following
 ```markdown
 inputtext='relevant text'
 # matches is an array titles, texts, vector_rep
-matches=km.gettopn(inputtext, corpusmodel, n)
+matches=km.gettopn(inputtext, corpusmodel, 10)
 km.printtitles(matches)
 ```
 
-You can also retrieve the common keywords between two texts under this model
+The shared keywords of two texts under this model can also be found
 ```markdown
 commonkeys=km.intersection(inputtext, text2, corpusmodel)
 print(commonkeys)

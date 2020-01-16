@@ -3,5 +3,6 @@ This project consists of an importable package keymodel.py, and auxilliary packa
 
 To run this program, clone the repository and run
 
-## Markdown
+```markdown
 import keyword_model.py as km
+```

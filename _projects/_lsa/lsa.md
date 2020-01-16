@@ -1,1 +1,1 @@
-# Latent semantic analysis
+# Text mining academic literature

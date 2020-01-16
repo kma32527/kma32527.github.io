@@ -1,1 +1,0 @@
-# Text mining academic literature

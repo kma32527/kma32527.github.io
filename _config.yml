@@ -3,5 +3,6 @@ theme: minima
 layout: default
 
 header_pages:
-  - index.md
-  - portfolio.md
+  - home.md
+  - projects.md
+  - blog.md

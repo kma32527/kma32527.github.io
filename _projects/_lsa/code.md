@@ -15,7 +15,7 @@ This initializes a model of 500 single word grams.
 To retrieve the 10 most relevant abstracts given an input text, save your input text to a unformatted text file.
 ```markdown
 inputtext='relevant text'
-\# matches is an array \[titles, texts, vector_rep\]
+# matches is an array titles, texts, vector_rep
 matches=km.gettopn(inputtext, corpusmodel, n)
 km.printtitles(matches)
 ```

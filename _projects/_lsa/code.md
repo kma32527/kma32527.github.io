@@ -1,9 +1,10 @@
 # Modelling arXiv abstracts on machine learning
 
-Start by, cloning the repository and importing the model package
+Cloning the files to a local repository and run
 ```markdown
 import keyword_model.py as km
 ```
+This imports all relevant functions.
 
 This package contains the arXiv dataset as a default, which can be used to construct a keyword model.
 ```markdown

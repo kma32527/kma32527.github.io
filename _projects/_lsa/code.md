@@ -19,3 +19,9 @@ inputtext='relevant text'
 matches=km.gettopn(inputtext, corpusmodel, n)
 km.printtitles(matches)
 ```
+
+You can also retrieve the common keywords between two texts under this model
+```markdown
+commonkeys=km.intersection(inputtext, text2, corpusmodel)
+print(commonkeys)
+```

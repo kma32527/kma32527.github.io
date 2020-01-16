@@ -1,4 +1,4 @@
-# Home
+Title: Home
 
 Welcome to my website!
 

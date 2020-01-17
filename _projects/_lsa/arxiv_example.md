@@ -1,12 +1,12 @@
 # Generating a model with arXiv abstracts
 
-Cloning the files to a local repository and run
+Clone the files to a local repository and run
 ```markdown
 import keyword_model.py as km
 ```
-This imports all relevant functions.
+This imports all relevant functions for running latent semantic analysis.
 
-This package contains the arXiv dataset as a default, which can be used to construct a keyword model.
+This package contains the arXiv dataset as a default, which can be used to construct a bag of words representation.
 ```markdown
 titles, abstracts=km.load_arxiv()
 model=km.corpusmodel(titles, abstracts, 500, 1)

@@ -1,6 +1,6 @@
 # Projects
 ## Coding
-- [Text mining academic literature](_projects/_lsa/lsa.md)
+- [Text mining academic literature](_projects/_lsa/arxiv_example.md)
 - [USAPL data scrape and resulting data file (.csv)](_projects/usapl.md)
 - [Keyword extractor](_projects/_keyword/home.md)
 - [Some models for the IMDB sentiment analysis dataset](_projects/_imdb/home.md)

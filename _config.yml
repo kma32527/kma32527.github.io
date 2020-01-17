@@ -20,5 +20,5 @@ titles_from_headings:
 
 include:
   - _projects
-  - _projects/_lsa
-  - _projects/_usapl
+  - _lsa
+  - _usapl

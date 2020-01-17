@@ -20,8 +20,4 @@ include:
   - _projects
   - _lsa
   - _usapl
-  
-- scope:
-    path: _projects/_lsa
-   values:
-    permalink: /:basename/
+

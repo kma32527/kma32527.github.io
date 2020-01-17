@@ -22,6 +22,6 @@ include:
   - _projects/_lsa
   - _projects/_usapl
   - scope:
-      path: '_pages'
+      path: '_projects/_lsa'
     values:
-      permalink: /:basename/
+      permalink: /:lsa/

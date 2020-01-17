@@ -19,9 +19,6 @@ titles_from_headings:
   collections: false
 
 include:
+  - _projects
   - _projects/_lsa
   - _projects/_usapl
-  - scope:
-      path: '_projects/_lsa'
-    values:
-      permalink: /:lsa/

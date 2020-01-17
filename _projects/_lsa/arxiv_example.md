@@ -15,13 +15,12 @@ This initializes a model with 500 1-gram features.
 
 To retrieve the 10 most relevant abstracts given an input text, save your input text to a unformatted text file and run the following
 ```markdown
-inputtext='relevant text'
-# matches is an array titles, texts, vector_rep
-matches=km.printmatches(inputtext, corpusmodel, 10)
+inputtext='some text as a string'
+km.printmatches(inputtext, corpusmodel, 10)
 ```
 
-The shared keywords of two texts under this model can also be found
+One can also find the shared keywords under this model between two texts.
 ```markdown
-commonkeys=km.intersection(inputtext, text2, corpusmodel)
+commonkeys=km.intersection(text1, text2, corpusmodel)
 print(commonkeys)
 ```

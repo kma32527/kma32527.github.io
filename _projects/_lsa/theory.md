@@ -1,1 +1,2 @@
-Given the assumption that the contents of a paper is valid, one can consider a paper to be a bag of concepts, where concepts are represented by logical statements on a vocabulary. One can consider these logical statements as samples from the set of all valid logical statements on a vocabulary. The set of all valid logical statements on a vocabulary represents the hypothetical state of "perfect knowledge"
+## Mathematical model
+Given the assumption that the contents of a paper is valid, one can consider a paper to be a bag of concepts, where concepts are represented by logical statements on a vocabulary. One can consider these logical statements as samples from the set of all valid logical statements on a vocabulary.

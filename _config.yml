@@ -17,3 +17,11 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: false
+
+include:
+  - _projects/_lsa
+  - _projects/_usapl
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename/

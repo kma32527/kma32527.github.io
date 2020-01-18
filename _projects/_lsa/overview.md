@@ -3,4 +3,5 @@ Because academic literature tends to be spell-checked with stanardized language,
 
 - [A first model using arXiv abstracts](arxiv_example.md)
 - [keyword_model.py package details](code.md)
-- [Model details](theory.md)
+- [Theory and model details](model.md)
+- [Future direction](future.md)

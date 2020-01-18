@@ -1,4 +1,4 @@
 # PLOS natural language preprocessing package
 
-- [Code overview](code.md)
+- [Code](code.md)
 - [Download all of PLOS](https://www.plos.org/text-and-data-mining)

@@ -1,9 +1,10 @@
+# Projects
+
 ## Text mining academic literature
-- [Extract clean text data from PLOS papers](_projects/_plosextract/overview.md)
+- [Extract clean text data from open-source, peer-reviewed scientific literature](_projects/_plosextract/overview.md)
 - [Construct a concept graph with latent semantic analysis](_projects/_lsa/overview.md)
 
-
-## Papers
+## Paper excerpts
   - [A Choiceless Interpretation of the Well-ordering Theorem](wot.pdf)
   
 ## Other

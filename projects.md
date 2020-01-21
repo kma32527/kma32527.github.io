@@ -1,5 +1,5 @@
 ## Text mining academic literature
-- [Extract clean text data from PLOS papers]
+- [Extract clean text data from PLOS papers](_projects/_plosextract/overview.md)
 - [Construct a concept graph with latent semantic analysis](_projects/_lsa/overview.md)
 
 

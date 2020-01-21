@@ -9,5 +9,5 @@
   
 ## Other
 - [USAPL data scrape and resulting .csv data file (Python)](_projects/_usapl/overview.md)
-- [Context-free keyword extractor (node.js)](_projects/_keyword/overview.md)
+- [A basic keyword extractor (node.js)](_projects/_keyword/overview.md)
 - [Models for the IMDB sentiment analysis dataset (Python)](_projects/_imdb/home.md)

@@ -5,9 +5,9 @@
 - [Construct a concept graph with latent semantic analysis](_projects/_lsa/overview.md)
 
 ## Paper excerpts
-  - [A Choiceless Interpretation of the Well-ordering Theorem](wot.pdf)
+- [A Choiceless Interpretation of the Well-ordering Theorem](wot.pdf)
   
 ## Other
-- [USAPL data scrape and resulting data file (.csv)](_projects/_usapl/overview.md)
-- [Keyword extractor](_projects/_keyword/overview.md)
-- [Some models for the IMDB sentiment analysis dataset](_projects/_imdb/home.md)
+- [USAPL data scrape and resulting .csv data file (Python)](_projects/_usapl/overview.md)
+- [Context-free keyword extractor (node.js)](_projects/_keyword/overview.md)
+- [Models for the IMDB sentiment analysis dataset (Python)](_projects/_imdb/home.md)

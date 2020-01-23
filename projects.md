@@ -5,7 +5,7 @@
 - [Construct a concept graph with latent semantic analysis (Python)](_projects/_lsa/overview.md)
 
 ## Paper excerpts
-- [A Choiceless Interpretation of the Well-ordering Theorem](wot.pdf)
+- [Excerpt: A Choiceless Interpretation of the Well-ordering Theorem](/_papers/wot.pdf)
   
 ## Other
 - [USAPL data scrape and resulting .csv data file (Python)](_projects/_usapl/overview.md)

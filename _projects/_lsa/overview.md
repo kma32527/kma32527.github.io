@@ -5,6 +5,6 @@ In particular, research papers frequently come attached with an abstract-- a sum
 
 - [Link to repository](https://github.com/kma32527/Naive-Researcher)
 - [Generating a semantic model with arXiv abstracts](code_example.md)
-- [keyword_model.py package details](code.md)
+- [keyword_model.py details](code.md)
 - [Model details](model.md)
 - [Future direction](future.md)

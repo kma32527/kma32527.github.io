@@ -1,3 +1,3 @@
 # Welcome!
 
-Welcome to my website! My personal work can be found under 'Projects'.
+Welcome to my website! This site is constantly being updated. My personal work can be found under 'Projects'.

@@ -1,4 +1,4 @@
 # ReadMe
 
-- This website is a work in progress as I try to figure out how I want to structure it and present my ideas.
+- This website is in a fairly rough state currently since I am still figuring out how I want to structure and present my ideas.
 - Planning on adding citations once I have a more conclusive direction

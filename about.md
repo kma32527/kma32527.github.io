@@ -1,0 +1,2 @@
+# About
+- [Resume](resume.pdf)

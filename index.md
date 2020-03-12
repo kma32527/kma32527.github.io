@@ -2,4 +2,4 @@
 
 Welcome to my website! This site is constantly being updated. My personal work can be found under 'Projects'.
 
-- [GitHub profile](https://github.com/kma32527)
+- [Link to GitHub Profile](https://github.com/kma32527)

@@ -4,8 +4,6 @@
 - [Construct a concept graph with latent semantic indexing (Python)](_projects/_lsa/overview.md)
 - [Extract cleaned text data from open-source, peer-reviewed scientific literature (Python)](_projects/_plosextract/overview.md)
 
-## Paper excerpts
-- [Excerpt: A Choiceless Interpretation of the Well-ordering Theorem](/_papers/wot.pdf)
   
 ## Other
 - [USAPL data scrape and resulting .csv data file (Python)](https://github.com/kma32527/USAPL-Scrape-Script)
